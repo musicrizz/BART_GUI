@@ -4,7 +4,6 @@ BART graphical user interface
 </p>
 
 <p align="center">
-BART graphical user interface
   <img src="bart.png"/>
 </p>
 
@@ -22,10 +21,10 @@ third party libraries:
 </div>
 
 <p align="center">
----
+--- *** ---
 
 ### BART GUI Screenshot ###
  <img src="bartScreen.png"/>
----
+--- *** ---
 </p>
 
